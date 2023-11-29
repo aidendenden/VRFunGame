@@ -1,0 +1,7 @@
+﻿VRFunGame/.idea
+VRFunGame/Library
+VRFunGame/Logs
+VRFunGame/obj
+VRFunGame/Temp
+VRFunGame/UserSettings
+*.csproj
