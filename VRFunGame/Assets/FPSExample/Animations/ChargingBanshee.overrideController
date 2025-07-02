@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ChargingBanshee
+  m_Controller: {fileID: 9100000, guid: 9bf6ed0ae90a6e14280e1f74f03dd582, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 29d2875678342e84c90c02ea33cdb4f8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9afd225b48edf4a4e815db5628b418eb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 18605eeb7e9cfa94db90d23a8c8e1b1f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d479b3c3e0724424a99d1e6dd5bcb0ec, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c273b59576274e341ad7f5000f539211, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 183a8e52ecf4fc347ad9a1133c7e1266, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e7bcbd0288f766942ae5eb55a0786467, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d479b3c3e0724424a99d1e6dd5bcb0ec, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d047d51cd40bc794c8342a8147eb01c0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 59b28d3bed1762c43b7d52e57f18eb38, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a07251fbe38e0594cbb69f065fad170a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 59b28d3bed1762c43b7d52e57f18eb38, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1b58ae2955da6af429ac47568abc049b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 59b28d3bed1762c43b7d52e57f18eb38, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a588e7f42170bca44b04afedafa1089c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 183a8e52ecf4fc347ad9a1133c7e1266, type: 2}

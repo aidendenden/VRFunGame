@@ -1,0 +1,22 @@
+1.Assets Notice
+2.Animating sprites
+3.Getting the sprite shadow material working
+4.Importing your own sprites
+5.Parenting rule
+
+1. This asset contains assets from the open source project freedoom, which is public domain
+
+2. There are a variety of ways to do this, I encourage you to find your own, but I animated them
+through animation events, which set the sprite index of the script. I'm sure there are much more efficent ways, but 
+this seemed like the easiest to do for now.
+
+3. If you are applying this on a new sprite renderer, it won't work until you go 
+into debug mode, the three dots at the top of the inspector, and enable it. From there, on the sprite renderer component, 
+enable "cast shadows" and "recieve shadows."  
+
+4. Make sure any sprites you import go into the resources folder. If you want to organize your sprites
+by folder, create folders for them in the resources folder, and make sure you include the folder in the sprite name variable.
+
+5. Make sure that any object with the sprite system component has a parent that dictates it's motion and or orientation. 
+Otherwise, the script will not work!! If you want to add movement to a gameobject, do it through the parent, not the sprite
+itself. The sprite will always be facing the camera. 

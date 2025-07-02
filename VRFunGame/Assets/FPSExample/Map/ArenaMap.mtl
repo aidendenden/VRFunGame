@@ -1,0 +1,39 @@
+# MTL for unityMap.wad, map MAP01
+# Created by GZDoom Builder 2.3.0.2787
+
+newmtl BROWN96
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\BROWN96.PNG
+
+newmtl BROWNGRN
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\BROWNGRN.PNG
+
+newmtl FLAT5_1
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\FLAT5_1.PNG
+
+newmtl GSTONE1
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\GSTONE1.PNG
+
+newmtl MARBFAC4
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\MARBFAC4.PNG
+
+newmtl F_SKY1
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\F_SKY1.PNG
+
+newmtl FLAT5_1
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\FLAT5_1_FLAT.PNG
+
+newmtl FLOOR7_2
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\FLOOR7_2.PNG
+
+newmtl RROCK17
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\RROCK17.PNG
+

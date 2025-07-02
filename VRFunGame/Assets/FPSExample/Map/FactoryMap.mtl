@@ -1,0 +1,183 @@
+# MTL for unityMap.wad, map MAP02
+# Created by GZDoom Builder 2.3.0.2787
+
+newmtl A-DBRI2
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\A-DBRI2.PNG
+
+newmtl A-DROCK1
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\A-DROCK1.PNG
+
+newmtl AQCOMP01
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\AQCOMP01.PNG
+
+newmtl AQDOOR01
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\AQDOOR01.PNG
+
+newmtl AQMETL07
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\AQMETL07.PNG
+
+newmtl AQMETL15
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\AQMETL15.PNG
+
+newmtl AQPANL08
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\AQPANL08.PNG
+
+newmtl BIGBRIK1
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\BIGBRIK1.PNG
+
+newmtl BRNPOIS2
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\BRNPOIS2.PNG
+
+newmtl BRONZE1
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\BRONZE1.PNG
+
+newmtl BRONZE2
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\BRONZE2.PNG
+
+newmtl BRONZE3
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\BRONZE3.PNG
+
+newmtl BRONZE4
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\BRONZE4.PNG
+
+newmtl BROWNPIP
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\BROWNPIP.PNG
+
+newmtl COMPBLUE
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\COMPBLUE.PNG
+
+newmtl COMPLIT1
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\COMPLIT1.PNG
+
+newmtl COMPTALL
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\COMPTALL.PNG
+
+newmtl COMPTILE
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\COMPTILE.PNG
+
+newmtl COMPUTE1
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\COMPUTE1.PNG
+
+newmtl COMPUTE4
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\COMPUTE4.PNG
+
+newmtl COMPVENT
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\COMPVENT.PNG
+
+newmtl COMPWERD
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\COMPWERD.PNG
+
+newmtl COMPWERF
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\COMPWERF.PNG
+
+newmtl DOORYEL2
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\DOORYEL2.PNG
+
+newmtl FLAT5
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\FLAT5.PNG
+
+newmtl METAL
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\METAL.PNG
+
+newmtl METAL1
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\METAL1.PNG
+
+newmtl METAL2
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\METAL2.PNG
+
+newmtl MIDSPCSM
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\MIDSPCSM.PNG
+
+newmtl SHAWN1
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\SHAWN1.PNG
+
+newmtl SHAWN2
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\SHAWN2.PNG
+
+newmtl A-DROCK1
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\A-DROCK1_FLAT.PNG
+
+newmtl BROWNPIP
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\BROWNPIP_FLAT.PNG
+
+newmtl CEIL1_1
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\CEIL1_1.PNG
+
+newmtl CEIL3_3
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\CEIL3_3.PNG
+
+newmtl CEIL4_2
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\CEIL4_2.PNG
+
+newmtl CEIL5_2
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\CEIL5_2.PNG
+
+newmtl F_SKY1
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\F_SKY1.PNG
+
+newmtl FLAT1_2
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\FLAT1_2.PNG
+
+newmtl FLAT5_7
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\FLAT5_7.PNG
+
+newmtl METAL1
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\METAL1_FLAT.PNG
+
+newmtl METAL2
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\METAL2_FLAT.PNG
+
+newmtl MFLR8_2
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\MFLR8_2.PNG
+
+newmtl RROCK17
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\RROCK17.PNG
+
+newmtl SHAWN2
+Kd 1.0 1.0 1.0
+map_Kd D:\2.5D doom system\Assets\FPSExample\Map\SHAWN2_FLAT.PNG
+
